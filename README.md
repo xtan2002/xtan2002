@@ -10,7 +10,7 @@
 
 | 仓库名      | 描述 | 网址 |
 | ----------- | ----------- | ----------- |
-| CUMCM2022 | 22年全国数学建模竞赛Solution（湖北赛区一等奖） | https://github.com/xtan2002/CUMCM-2022 |
+| CUMCM2022 | 22年全国数学建模竞赛Solution（省一等奖） | https://github.com/xtan2002/CUMCM-2022 |
 | CUMCM2023 | 23年全国数学建模竞赛Solution（全国三等奖） | https://github.com/xtan2002/CUMCM-2023 |
 | model_with_python | 数学建模常用代码 |  https://github.com/xtan2002/model_with_python |
 | Math_problem_of_day | 初中数学每日亿题 | https://github.com/xtan2002/Math_problem_of_day |
