@@ -10,7 +10,7 @@
 
 | 仓库名      | 描述 | 网址 |
 | ----------- | ----------- | ----------- |
-| CUMCM2022 | 2022年全国大学生数学建模竞赛解决方案（湖北赛区一等奖） |  |
-| CUMCM2023 | 2023年全国大学生数学建模竞赛解决方案（全国三等奖） |  |
-| model_with_python | 数学建模常用代码 |   |
+| CUMCM2022 | 2022年全国大学生数学建模竞赛解决方案（湖北赛区一等奖） | https://github.com/xtan2002/CUMCM-2022 |
+| CUMCM2023 | 2023年全国大学生数学建模竞赛解决方案（全国三等奖） | https://github.com/xtan2002/CUMCM-2023 |
+| model_with_python | 数学建模常用代码 |  https://github.com/xtan2002/model_with_python |
 
